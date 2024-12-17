@@ -1,2 +1,2 @@
 # webcoursera.github.io
-The website for quick recipes in HTML
+The website for quick recipes in HTML.
